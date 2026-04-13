@@ -28,6 +28,4 @@ while True:
         print("O método de Newton-Raphson convergiu para a raiz: ", x1)
         break
 
-
 print("Número de iterações: ", numero_iteracoes)
-
